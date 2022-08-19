@@ -1,0 +1,26 @@
+h1{
+    color:darkorange;
+    font-size:90px ;
+    text-align: center;
+    font-style: italic;
+    
+}
+button{
+    background-color:crimson;
+    border:10px black;
+
+}
+h2{
+    color:yellowgreen;
+    
+    
+}
+div{
+    color:black;
+    font-size: large;
+    font-style: bold;
+}
+li{
+    color:red;
+    list-style-type:disc;
+}
